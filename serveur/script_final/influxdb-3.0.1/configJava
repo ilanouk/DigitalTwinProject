@@ -1,0 +1,13 @@
+
+ipServeur = localhost
+portInflux = 8086
+portMqtt = 1883
+lienMqtt = tcp://broker.hivemq.com
+topic_temperature = l2g1_temperature
+topic_humidite = l2g1_humidite
+topic_pression = l2g1_pression
+topic_coordonnees = l2g1_coordonnees
+topic_test = l2g1_test
+database = metrics
+userInflux = telegraf
+mdpInflux = password
